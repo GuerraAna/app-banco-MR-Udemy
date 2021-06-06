@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Banco MR</string>
+    <string name="mcv_poupanca">Poupança</string>
+    <string name="mcv_faturas">Faturas</string>
+    <string name="mcv_transferencia">Transferência</string>
+    <string name="mcv_saldo">Saldo</string>
+    <string name="tv_saldo">Saldo Disponível</string>
+    <string name="tv_valor_saldo">R$ 1.5000,00</string>
 </resources>
